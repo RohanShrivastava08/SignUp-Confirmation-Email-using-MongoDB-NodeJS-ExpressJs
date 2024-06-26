@@ -6,9 +6,7 @@
 
 ![Screenshot (79)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/3e24c887-a1ab-4510-9c32-61b636b90d32)
 
-
-
-
+![Screenshot (80)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/ab3c4d79-ccdd-440b-a487-1b576e4abf05)
 
 ## Table of Contents
 -  Overview
@@ -66,6 +64,7 @@ cd signup-email-confirmation
 
 ![Screenshot (79)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/3e24c887-a1ab-4510-9c32-61b636b90d32)
 
+![Screenshot (80)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/ab3c4d79-ccdd-440b-a487-1b576e4abf05)
 
 
 ## Install Dependencies
