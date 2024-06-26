@@ -1,4 +1,4 @@
-# Signup with Email Confirmation Documentation
+# Signup with Email Confirmation using Node.js, MongoDB, Express.js.
 
 ## Table of Contents
 -  Overview
