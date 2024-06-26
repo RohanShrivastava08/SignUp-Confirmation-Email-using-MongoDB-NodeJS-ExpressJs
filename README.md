@@ -1,9 +1,20 @@
 # Signup with Email Confirmation using Node.js, MongoDB, Express.js.
 
+![Screenshot (74)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/7dd31792-d289-4ceb-9d10-47f1886fe738)
+
+![Screenshot (77)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/977b7f3d-dcfd-40a1-9f2d-835cf72d8b11)
+
+![Screenshot (79)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/3e24c887-a1ab-4510-9c32-61b636b90d32)
+
+
+
+
+
 ## Table of Contents
 -  Overview
 - Prerequisites
 - Getting Started
+- Screenshots
 - Clone the Repository
 - Install Dependencies
 - Set Up Environment Variables
@@ -32,7 +43,8 @@
 - MongoDB: Install MongoDB and ensure it's running locally or on a server accessible from your Node.js application.
 
 ## Getting Started
-- Clone the Repository
+
+### Clone the Repository
 - Clone the project repository from GitHub or your version control system:
 
 ```sh
@@ -40,7 +52,23 @@ git clone <repository-url>
 cd signup-email-confirmation
 ```
 
-### Install Dependencies
+## Screenshots
+
+![Screenshot (74)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/7dd31792-d289-4ceb-9d10-47f1886fe738)
+
+![Screenshot (75)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/7ab7d51c-4290-473c-9cf0-1157ccb2cfd0)
+
+![Screenshot (76)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/2602f740-9603-4907-a904-a8d5b39c2b23)
+
+![Screenshot (77)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/977b7f3d-dcfd-40a1-9f2d-835cf72d8b11)
+
+![Screenshot (78)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/42b8dc04-0387-4f37-9aa4-2440cf7ed169)
+
+![Screenshot (79)](https://github.com/RohanShrivastava08/SignUp-Confirmation-Email/assets/94133270/3e24c887-a1ab-4510-9c32-61b636b90d32)
+
+
+
+## Install Dependencies
 - Install the necessary Node.js packages using npm:
 
 ```sh
